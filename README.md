@@ -1,0 +1,2 @@
+# Projeto
+Este projetoimplementa um modelo de Deep Learningpara gerar legendas para imagens. A tarefa envolve treinar um modelo para compreender o conteúdo de uma imagem e gerar uma descrição humana do que está acontecendo na imagem. Este projeto usa o conjunto de dados Flickr8K,  que  consiste  em  imagens  junto  comas  legendas  correspondentes.  A  arquitetura  do modelo  aproveita  uma  combinação  de Redes Neurais Convolucionais  (CNNs)  para  extração  de recursos de imagem e Redes Neurais Recorrentes (RNNs) para gerar legendas.
